@@ -1,2 +1,2 @@
-# general
-contains general ML
+# General ML
+contains general ML implementations
